@@ -12,6 +12,7 @@ on:
   
   pull_request:
     branches: [ "project" ]
+  workflow_dispatch:
 
 jobs:
   build:
