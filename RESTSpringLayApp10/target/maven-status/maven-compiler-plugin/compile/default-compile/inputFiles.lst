@@ -1,0 +1,13 @@
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\exceptions\DuplicateStudentException.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\model\Student.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\dao\StudentDaoImpl.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\dao\StudentRowMapper.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\controller\StudentRestController.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\ui\MainUD.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\service\StudentServiceImpl.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\ui\Main.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\dao\StudentDao.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\model\Department.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\exceptions\NoSuchStudentException.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\service\StudentService.java
+D:\HSBC\spring\Workspacae\RESTSpringLayApp10\src\main\java\com\hsbc\dao\StudentDaoJdbcImpl.java
